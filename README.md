@@ -48,7 +48,4 @@ The work was performed in five steps:
 4. Appropriately labels the data set with descriptive variable names. 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Files:
-CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
-run_analysis.R contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
-The output of the 5th step is called averages_data.txt , and uploaded in the course project's form.
+You can find additional infrmation about de variables, data and transformations in the CodeBook.md file.
